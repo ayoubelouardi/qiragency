@@ -638,7 +638,7 @@ header
 welcome
 --------------------------------------------- 
 */
-/*
+
 .welcome-area {
   overflow: hidden;
   position: relative;
@@ -650,7 +650,7 @@ welcome
   background-position: center center;
   background-size: cover; 
   height: 100vh;
-}*/
+}
 
 .welcome-area .header-text {
   position: absolute;
