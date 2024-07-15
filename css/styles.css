@@ -25,7 +25,7 @@ Colors:
 - Backgrounds - light gray #f7f9fd
 - Headings text - black #161223
 - Body text - dark gray #53575a
-- Buttons, icons - green #7dc22b
+- Buttons, icons - violet (qir color) #47277A
 ******************************************/
 
 
@@ -147,7 +147,7 @@ a:hover {
 }
 
 .green {
-	color: #7dc22b;
+	color: #47277A;
 }
 
 .bg-gray {
@@ -157,9 +157,9 @@ a:hover {
 .btn-solid-reg {
 	display: inline-block;
 	padding: 1.375rem 2.25rem 1.375rem 2.25rem;
-	border: 1px solid #7dc22b;
+	border: 1px solid #47277A;
 	border-radius: 4px;
-	background-color: #7dc22b;
+	background-color: #47277A;
 	color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
@@ -170,16 +170,16 @@ a:hover {
 
 .btn-solid-reg:hover {
 	background-color: transparent;
-	color: #7dc22b; /* needs to stay here because of the color property of a tag */
+	color: #47277A; /* needs to stay here because of the color property of a tag */
 	text-decoration: none;
 }
 
 .btn-solid-lg {
 	display: inline-block;
 	padding: 1.625rem 2.625rem 1.625rem 2.625rem;
-	border: 1px solid #7dc22b;
+	border: 1px solid #47277A;
 	border-radius: 4px;
-	background-color: #7dc22b;
+	background-color: #47277A;
 	color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
@@ -190,7 +190,7 @@ a:hover {
 
 .btn-solid-lg:hover {
 	background-color: transparent;
-	color: #7dc22b; /* needs to stay here because of the color property of a tag */
+	color: #47277A; /* needs to stay here because of the color property of a tag */
 	text-decoration: none;
 }
 
@@ -293,9 +293,9 @@ a:hover {
 	display: inline-block;
 	width: 100%;
 	height: 3.25rem;
-	border: 1px solid #7dc22b;
+	border: 1px solid #47277A;
 	border-radius: 4px;
-	background-color: #7dc22b;
+	background-color: #47277A;
 	color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
@@ -305,9 +305,9 @@ a:hover {
 }
 
 .form-control-submit-button:hover {
-	border: 1px solid #7dc22b;
+	border: 1px solid #47277A;
 	background-color: transparent;
-	color: #7dc22b;
+	color: #47277A;
 }
 
 
@@ -378,7 +378,7 @@ a:hover {
 .navbar .nav-item.dropdown.show .nav-link,
 .navbar .nav-item .nav-link:hover,
 .navbar .nav-item .nav-link.active {
-	color: #7dc22b;
+	color: #47277A;
 }
 
 /* Dropdown Menu */
@@ -415,7 +415,7 @@ a:hover {
 
 .navbar .dropdown-item:hover {
 	background-color: #161223;
-	color: #7dc22b;
+	color: #47277A;
 }
 
 .navbar .dropdown-divider {
@@ -434,7 +434,7 @@ a:hover {
 }
 
 .navbar .fa-stack-2x {
-	color: #7dc22b;
+	color: #47277A;
 	transition: all 0.2s ease;
 }
 
@@ -448,7 +448,7 @@ a:hover {
 }
 
 .navbar .fa-stack:hover .fa-stack-1x {
-	color: #7dc22b;
+	color: #47277A;
 }
 
 .navbar .navbar-toggler {
@@ -527,7 +527,7 @@ a:hover {
 	margin-bottom: 2rem;
 	margin-left: auto;
 	border-radius: 50%;
-	background-color: #7dc22b;
+	background-color: #47277A;
 	text-align: center;
 }
 
@@ -663,7 +663,7 @@ a:hover {
 
 .filter .button:hover,
 .filter .button.is-checked {
-	background-color: #7dc22b;
+	background-color: #47277A;
 	color: #ffffff;
 }
 
@@ -787,7 +787,7 @@ a:hover {
 }
 
 .form-1 .list-unstyled .fas {
-	color: #7dc22b;
+	color: #47277A;
 }
 
 .form-1 .form-control-input,
@@ -818,7 +818,7 @@ a:hover {
 
 .counter .purecounter {
 	margin-bottom: 1.5rem;
-	color: #7dc22b;
+	color: #47277A;
 	font-weight: 600;
 	font-size: 5rem;
 	line-height: 3rem;
@@ -881,7 +881,7 @@ a:hover {
 }
 
 .footer .footer-col.third .fa-stack:hover .fa-stack-2x {
-    color: #7dc22b;
+    color: #47277A;
 }
 
 .footer .footer-col.third .fa-stack:hover .fa-stack-1x {
@@ -972,7 +972,7 @@ a:hover {
 }
 
 .ex-cards-1 .card .fa-stack-2x {
-	color: #7dc22b;
+	color: #47277A;
 }
 
 .ex-cards-1 .card .fa-stack-1x {
