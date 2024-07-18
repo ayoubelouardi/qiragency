@@ -1,4 +1,3 @@
-0. logo resise
 1. seconde color finetunning
 2. change the text
 - discover section

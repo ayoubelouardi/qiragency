@@ -499,7 +499,7 @@ a:hover {
 .header .header-content {
 	padding-top: 11rem;
 	padding-bottom: 9rem;
-	background: linear-gradient(rgba(21, 35, 63, 0.5), rgba(21, 35, 63, 0.5));
+	/*background: linear-gradient(rgba(21, 35, 63, 0.5), rgba(21, 35, 63, 0.5));*/
 	background-size: cover;
 	text-align: center; 
 }
@@ -1427,3 +1427,14 @@ a:hover {
 	/* end of extra pages */
 }
 /* end of min-width 1200px */
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.example::-webkit-scrollbar {
+	display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.example {
+-ms-overflow-style: none;  /* IE and Edge */
+scrollbar-width: none;  /* Firefox */
+}
